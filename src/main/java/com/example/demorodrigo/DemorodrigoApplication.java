@@ -9,6 +9,7 @@ public class DemorodrigoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemorodrigoApplication.class, args);
 		System.out.println("------------ MENSAJE DE PRUEBA ------------");
+		System.out.println("------------ MENSAJE PARA PROBAR UN COMMIT ------------");
 	}
 
 }
